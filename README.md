@@ -3,7 +3,7 @@ Assessment from Zaio - the Tesla page
 ## Certificate:
 
 
-![zaio-tesla-page](certificate.png)
+![Zaio Tesla clone page certificate](zaio-tesla-page.png)
 
 ## HTML basics
 1. Lists: 
