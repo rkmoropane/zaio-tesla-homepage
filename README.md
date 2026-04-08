@@ -1,5 +1,9 @@
 # Tesla-Page-Zaio
 Assessment from Zaio - the Tesla page
+## Certificate:
+
+
+![zaio-tesla-page](certificate.png)
 
 ## HTML basics
 1. Lists: 
