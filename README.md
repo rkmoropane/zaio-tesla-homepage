@@ -1,9 +1,5 @@
 # Tesla-Page-Zaio
 Assessment from Zaio - the Tesla page
-## Certificate:
-
-
-![Zaio Tesla clone page certificate](zaio-tesla-page.png)
 
 ## HTML basics
 1. Lists: 
@@ -358,3 +354,8 @@ main {
 - add the corresponding padding, margin, width and Height of the buttons from the tesla.com homepage, for the action buttons below the car image.
 - Add the similar border effects from the nav items to the buttons. Make sure the buttons' properties like margins are similar to the ones in tesla homepage, the left and right buttons' color and background-color are likewise.
 
+
+## Certificate:
+
+
+![Zaio Tesla clone page certificate](zaio-tesla-page.png)
